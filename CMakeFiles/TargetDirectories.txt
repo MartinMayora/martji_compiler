@@ -1,0 +1,3 @@
+/home/martinm/Desktop/asm/complier_v1/build/CMakeFiles/compiler.dir
+/home/martinm/Desktop/asm/complier_v1/build/CMakeFiles/edit_cache.dir
+/home/martinm/Desktop/asm/complier_v1/build/CMakeFiles/rebuild_cache.dir
